@@ -1,7 +1,7 @@
 ### Hi, I'm Rupesh 👋
 [About Me](https://rupesh.info/aboutme/)
-- 🔭 I’m currently working on Virtual Try-On
-- 🌱 I’m currently learning Tensorflow
+- 🔭 I’m currently working in algorithmic trading
+- 🌱 I’m currently learning Market Microstructures
 - 💬 Ask me about Deep Learning and Applied Statistics
 - 📫 How to reach me: rupesh95903@gmail.com
 - ⚡ Fun fact: I watched 21 movies in 21 days during the first lockdown on April'20.
